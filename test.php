@@ -27,6 +27,6 @@ class Suportcar extends Car {
  $car->setModel("bmw");
  echo $car->getModel();
  
- /* just kidding */
+ /* just thinkig */
 
 ?>
