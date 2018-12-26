@@ -1,3 +1,1 @@
 delete 
-<?php
-$query = "delete"
