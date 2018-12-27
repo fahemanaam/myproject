@@ -5,6 +5,6 @@ $query = mysql_affected_rows($delete);
 $query = mysql_affected_rows($delete);
 $query4 'fahem';
 $query5 'fahem';
-$query6 'fahem';
+$query7 'fahem';
 
 ?>
