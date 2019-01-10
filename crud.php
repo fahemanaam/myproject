@@ -53,6 +53,13 @@
       return $newName;
 
     }
+	public function delet (){
+		echo "hello fahem";
+		if(){
+			
+		}
+	}
+	}
     
 
  
